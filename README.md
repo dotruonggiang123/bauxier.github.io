@@ -1,2 +1,2 @@
 # bauxier.github.io
-kenh ca 
+Learning GitHub is fun.
